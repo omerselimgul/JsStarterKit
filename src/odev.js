@@ -87,4 +87,4 @@ function primeNumbers() {
         }
     }
 }
-primeNumbers()
+// primeNumbers()
